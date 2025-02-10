@@ -4,7 +4,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'No build necessary for backend'",
     "test": "echo 'Skipping tests' && exit 0"
 },
   "keywords": [],
